@@ -1,0 +1,23 @@
+[
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\workspace\\\\nemo-slider-docs\\\\pages\\\\blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_517d8643"
+  },
+  {
+    "name": "test_home",
+    "path": "/test_home",
+    "component": "C:\\\\workspace\\\\nemo-slider-docs\\\\pages\\\\test_home.vue",
+    "chunkName": "pages/test_home",
+    "_name": "_03b3899b"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\workspace\\\\nemo-slider-docs\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_76787e81"
+  }
+]
